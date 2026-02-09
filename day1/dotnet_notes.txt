@@ -25,6 +25,96 @@ Characterstics of .NET
 
    -> We can create any kind of applications as Console/Windows/Web/Service Oriented and Mobile Apps
 
+CLR (Common Language @ Runtime) 
+
+     CLR is responsible for 
+
+	-> Debugging
+
+	-> Exception Handling
+
+	-> Security
+
+	-> Version Support 
+
+
+CLR is the execution engine of .NET applciations.
+
+Provides memory management, garbage collection and 
+exception handling 
+
+Ensures the code executes in a controlled env.
+
+MSIL (IL) {Microsoft Intermediate Langauge}
+
+When you compile any .NET application, at first instead of converting into CPU specific code, first its converted into MSIL. Then it becomes language neutral, there either (exe or dll) file will be created. 
+
+There are basic libraries in .NET as 
+
+(I) BCL (Base Class Libraries) : These are the libraries, that which exists since first version of .NET framework (1.14 onwards) 
+
+(II) FCL (Framework Class Libraries) : These are the libraries, that which are added based on the framework version to the .NET env
+
+	Example : .NET 2.0 added nice asp.net features
+		  .NET 3.5 added LINQ and Entity Framework
+		  .NET 4.0 added Core features of .NET 
+
+Namespaces : Contains group of related classes and interfaces, that which belongs to one common group. If you want to overcome the naming conflicts between classes, then we need the help of namespaces. 
+
+Assemblies : An assembly is a single deployable unit, that which contains the information about Project, Version, CurltureInfo, publicKeyToken etc... An assembly contains group of namespaces, and a single assembly can be shared by multiple assemblies. 
+
+Once you create any assembly file, that can be accessable across any .NET framework language, means .NET assemblies we can use in sharepoint as both are .NET framworks apps.
+
+Assemblies are stored in GAC folder (Global Assembly Cache) 
+
+CTS (Common Type System) : All the .NET framework langauges, needs to undergone one common state w.r.t. data types and ranges, means if integer in C# tables 4 bytes, then asp.net integer needs to take 4 bytes and vb.net integer also needs to take 4 bytes. 
+
+CLS (Common Language Specification) {Language Interoperability} 
+
+The code which is there in one .NET framework language, can be used in another .NET framework language known as language interoperability. 
+
+JIT (Just-In Time Compilation) : Converts the MSIL into CPU specific format. JIT loads only the relevant classes into the memory, that makes execution happens faster.
+
+Compiling and Execution Procedure of .NET application : 
+________________________________________________________
+
+
+(I) When you compile any .NET application, at first instead of converting into CPU specific code, first its converted into MSIL
+
+		Then either exe or dll file will be created
+
+(ii) Then it would be send to class loader There are 2 types of class loaders as
+
+	(a) Primordial Class Loader : Used to load all system classes which are required to run the program. 
+
+	(b) Class Loader Objects : Used to load user-defined classes which are required to run the program. 
+
+(iii) In class loader, we have JIT compiler converts the MSIL into CPU specific format. 
+
+(iv) Then it would be send to execution manager, which contains queue of programs ready to run, where we can execute the program. 
+
+	{before execution program needs to undergone the security auth} 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Architecture 
