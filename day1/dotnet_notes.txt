@@ -236,7 +236,43 @@ Control Structures : Used to define the flow of the program. There are 2 types o
 			break;
 	}
 
-(ii) Looping 
+(ii) Looping : 
+
+while loop : This loop executes all the statement(s) repeatedly until the condition remains true, if the condition remains false, then it comes out of the loop. 
+
+For every loop, basically there are 3 phases known as 
+
+(i) Initialization -> Performed at the beginning of the loop.
+
+(ii) Condition -> Performed at the conditional part of the loop
+
+(iii) Increment/Decrement : Performed before closing the loop.
+
+syntax : 
+
+while(condition) {
+   statement(s);
+}
+
+For loop : This loop executes all the statements repeatedly until the condition remains true, if the condition remains false it comes out of the loop. 
+
+for(initialization;condition;increment/decrement) {
+   statement(s);
+}
+
+do...while : This loop executes all the statements once and then it checks the condition. if the condition is true, it repeats the statements, else it comes out of the loop. The min. execution of while loop is ZERO times, the min. execution of do...while loop is 1 time. 
+
+do {
+  statement(s);
+} while(condition);
+
+
+
+
+
+
+
+
 
 
 
