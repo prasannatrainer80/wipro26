@@ -95,6 +95,186 @@ ________________________________________________________
 
 	{before execution program needs to undergone the security auth} 
 
+Object Oriented Programming : It is an approach that provides a way of modularizing programming, that which can be used to create small partition memory area for both data and objects, which are to be used as templates for creating copies of such modules on demand. 
+
+Object : An object is a real world entity, that which possess 3 characterstics known as 
+
+	(I) State
+
+	(ii) Behaviour
+
+	(iii) Identity 
+
+OOPS features : 
+________________
+
+	(I) Encapsulation : Wrapping up of data and functions into a single unit known as encapsulation.  
+
+	(ii) Abstraction : Hiding the irrelevant details of an object that do not contribute to its essential characteristics known as abstraction.
+
+*** Encapsulation focuses on showing the relevant details, where abstraction focuses on hiding the irrelevant details ***
+
+	(iii) Inheritance : Deriving a new entity from already existing entity known as inheritance, through inheritance we can reduce the size of the program. 
+
+	(iv) Polymorphism : The ability to take more than one form known as polymorphism. 
+
+class : A class is a template or blueprint, that which contains combination of data members and member functions. Members of the class can be accessable by using instance of the class. 
+
+class class_name
+{
+    data members;
+    member functions;
+}
+
+Access Modifiers : 
+__________________
+
+(i) private : Allows you to access members within current class.
+
+(ii) public : Allows you to access members in entire application. 
+
+(iii) protected : Allows you to access members within current/derived class.
+
+(iv) internal : Allows you to access members within all classes of current namespace.
+
+(v) protected internal : Allows you to access members within all classes of current namespace, and other namespace derived classes.
+
+Data Types : 
+____________
+
+There are 2 types of data types as 
+
+	(i) value types
+
+		int, float, double, char, bool 
+
+	(ii) reference types 
+
+		string, object and user-defined types. 
+
+*** Value types will be stored in STACK memory, and reference types will be stored in HEAP memory ***
+
+You can define method main() as
+
+static void Main() 
+{
+
+}
+
+Main() must be static, as no class object supposed to call method Main().
+
+Console.WriteLine() : used to display any value or message. 
+
+
+The top level class in java is System.Object where System is the namespace and Object is the class. 
+
+Console.WriteLine("Welcome to C#");
+
+int a=12;
+
+Console.WriteLine("A value is {0}",a);
+
+Console.WriteLine("A value is "+a);
+
+Console.ReadLine() : used to read data from keyboard.
+
+Convert.ToInt32() -> Converts into 32 bit integer
+
+Convert.ToInt64() -> Converts into 64 bit integer
+
+Convert.ToDouble() -> Converts into double datatype.
+
+
+How to declare a method, 
+
+You can declare a method as
+
+access_modifier return_type method_name(parameter(s)) {
+...
+...
+...
+...
+}
+
+if a method will not return any value, then we need to specify as void. 
+
+public void show(String sname) {
+...
+...
+}
+
+*** You can create an object to the class as***
+
+class_name obj =new class_name();
+
+Control Structures : Used to define the flow of the program. There are 2 types of control structures known as 
+
+(i) Branching
+
+	if...else : Executes the statement(s) based on the condition.
+	syntax : 
+		if (condition) {
+			statement(s);
+		} else {
+			statement(s);
+		}
+
+	switch...case : Allows you to make any menu-driven programs. 
+
+	switch(choice) {
+		case exp_1 :
+			statement(s);
+			break;
+		case exp_2 :
+			statement(s);
+			break;
+		....
+		....
+		....
+		default : 
+			statement(s);
+			break;
+	}
+
+(ii) Looping 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
