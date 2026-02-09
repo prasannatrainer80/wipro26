@@ -1,0 +1,32 @@
+What is .NET
+
+	.NET is a framework 
+
+Microsoft introduced .NET framework for building the gap between interoperability between applications.  It is a foundation on which, where we can build, design, develop and deploy the applications. 
+
+Why .NET 
+
+.NET framework contains more than 270+ language characteristics have been formed as a single group, where we can use one language features within another language. 
+
+.NET framework lets developers write applications in multiple languages like C#, VB etc  that can run on any env without changing source code, 
+ensures efficiently and platform independent applications we can make.
+
+The main objective of .NET framework is reusable code and consistent behaviour across various applications.
+
+Characterstics of .NET
+
+   -> Supports large no.of programming languages
+
+   -> Provides a huge class libraries for common operations
+
+   -> Handles memory management automatically through GC
+
+   -> Ensures security through code access Security
+
+   -> We can create any kind of applications as Console/Windows/Web/Service Oriented and Mobile Apps
+
+
+
+Architecture 
+
+
