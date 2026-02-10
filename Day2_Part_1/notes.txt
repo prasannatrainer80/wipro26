@@ -36,6 +36,29 @@ How Internally foreach loop getting executed
 
 in foreach loop, we have predefined collection called Enumerator, there at first variable i points to the first element in array A, after processing first element, it checks the next element is there or not by using HasMoreElements(), if it returns true, it moves to the next element by using NextElement(). It repeats as soon as HasMoreElements() returns true. 
 
++++++++++++++++++++++
+
+Multi-Dimentional Arrays : 
+
+Allows you to store data w.r.t. Rows and Columns. 
+
+A jagged array is an array of arrays, where each element is itself an array that can have a different length. Rows are fixed at declaration, but columns can vary. It can also combine with multidimensional arrays.
+
+
+1) Write a program to read a sentence and print alternate words in reverse order
+
+example : 
+
+welcome to C# programming from Wipro Training
+
+welcome ot C# gnimmargorp from orpiW Training 
+
+2) Write a program to count no.of palindrome words in the given sentence 
+
+Welcome All liril is soap Malayalam is language madam is heading company 
+
+Total Count of Palindrome Words : 3 
+
 
 
 
