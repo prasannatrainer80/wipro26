@@ -1,0 +1,48 @@
+6 -> 1,2,3
+	6
+
+String Functions : 
+
+Length : Displays total no.of chars in a string
+
+IndexOf() : used to display first occurrence of given char in a string. If char does not exists it returns -1 
+
+Strings in C# are immutable, means once we declare a string, we cannot alter value by using any string functions. To overcome this we need the help of StringBuilder.
+
+Arrays : An array is the finite ordered set of homogeneous elements, means all the elements belongs to same data type. All the elements in array are stored in successive memory locations. 
+
+syntax :
+________
+
+int[] a = new int[]{12,4,11,62,23};
+
+a[0]=12;
+a[1]=4;
+a[2]=11;
+a[3]=62;
+a[4]=23;
+
+How Internally foreach loop getting executed 
+
+  int[] a = new int[] { 12, 66, 31, 66, 23, 122 };
+  //for(int i=0;i<a.Length;i++)
+  //{
+  //    Console.WriteLine(a[i]);
+  //}
+  foreach(int i in a)
+  {
+      Console.WriteLine(i);
+  }
+
+in foreach loop, we have predefined collection called Enumerator, there at first variable i points to the first element in array A, after processing first element, it checks the next element is there or not by using HasMoreElements(), if it returns true, it moves to the next element by using NextElement(). It repeats as soon as HasMoreElements() returns true. 
+
+
+
+
+
+
+
+
+
+
+
