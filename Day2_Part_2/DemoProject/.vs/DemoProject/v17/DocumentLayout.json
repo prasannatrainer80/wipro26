@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro26\\Day2\\DemoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\boxcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:boxcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DemoProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\boxinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:boxinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\boxtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:boxtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\boxingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:boxingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\quiz6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:quiz6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\jagged2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:jagged2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\jagged1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:jagged1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\md4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:md4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\md3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:md3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\md2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:md2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\md1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:md1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\array6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:array6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\array5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:array5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\array4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:array4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\array3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:array3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\array2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:array2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\array1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:array1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\arrayex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:arrayex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\arrayex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:arrayex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\sbexnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:sbexnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\sbexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:sbexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\quiz5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:quiz5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\quiz4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:quiz4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\quiz3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:quiz3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\strex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:strex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\loopex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:loopex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|D:\\wipro26\\Day2\\DemoProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC23CCAA-D965-4D5E-A1D3-53F836724D15}|DemoProject.csproj|d:\\wipro26\\day2\\demoproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoxCustom.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\BoxCustom.cs",
+              "RelativeDocumentMoniker": "BoxCustom.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\BoxCustom.cs",
+              "RelativeToolTip": "BoxCustom.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:36:37.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:35:44.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Employ.cs",
+              "RelativeDocumentMoniker": "Employ.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Employ.cs",
+              "RelativeToolTip": "Employ.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:33:43.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoxInstance.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\BoxInstance.cs",
+              "RelativeDocumentMoniker": "BoxInstance.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\BoxInstance.cs",
+              "RelativeToolTip": "BoxInstance.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:28:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoxTest.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\BoxTest.cs",
+              "RelativeDocumentMoniker": "BoxTest.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\BoxTest.cs",
+              "RelativeToolTip": "BoxTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:25:43.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoxingExample.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\BoxingExample.cs",
+              "RelativeDocumentMoniker": "BoxingExample.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\BoxingExample.cs",
+              "RelativeToolTip": "BoxingExample.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:21:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StrDemo.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\StrDemo.cs",
+              "RelativeDocumentMoniker": "StrDemo.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\StrDemo.cs",
+              "RelativeToolTip": "StrDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:16:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Quiz6.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Quiz6.cs",
+              "RelativeDocumentMoniker": "Quiz6.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Quiz6.cs",
+              "RelativeToolTip": "Quiz6.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:08:14.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Jagged2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Jagged2.cs",
+              "RelativeDocumentMoniker": "Jagged2.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Jagged2.cs",
+              "RelativeToolTip": "Jagged2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:15:00.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Jagged1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Jagged1.cs",
+              "RelativeDocumentMoniker": "Jagged1.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Jagged1.cs",
+              "RelativeToolTip": "Jagged1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:10:16.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoProject",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\DemoProject.csproj",
+              "RelativeDocumentMoniker": "DemoProject.csproj",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\DemoProject.csproj",
+              "RelativeToolTip": "DemoProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-10T05:18:32.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Md4.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Md4.cs",
+              "RelativeDocumentMoniker": "Md4.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Md4.cs",
+              "RelativeToolTip": "Md4.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:06:30.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Md3.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Md3.cs",
+              "RelativeDocumentMoniker": "Md3.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Md3.cs",
+              "RelativeToolTip": "Md3.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:03:59.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Md2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Md2.cs",
+              "RelativeDocumentMoniker": "Md2.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Md2.cs",
+              "RelativeToolTip": "Md2.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:57:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Md1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Md1.cs",
+              "RelativeDocumentMoniker": "Md1.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Md1.cs",
+              "RelativeToolTip": "Md1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T08:52:15.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Array6.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Array6.cs",
+              "RelativeDocumentMoniker": "Array6.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Array6.cs",
+              "RelativeToolTip": "Array6.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:37:32.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Quiz5.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Quiz5.cs",
+              "RelativeDocumentMoniker": "Quiz5.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Quiz5.cs",
+              "RelativeToolTip": "Quiz5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:44:15.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SbExample.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\SbExample.cs",
+              "RelativeDocumentMoniker": "SbExample.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\SbExample.cs",
+              "RelativeToolTip": "SbExample.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:47:15.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SbExNew.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\SbExNew.cs",
+              "RelativeDocumentMoniker": "SbExNew.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\SbExNew.cs",
+              "RelativeToolTip": "SbExNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:51:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ArrayEx1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\ArrayEx1.cs",
+              "RelativeDocumentMoniker": "ArrayEx1.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\ArrayEx1.cs",
+              "RelativeToolTip": "ArrayEx1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:59:17.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArrayEx2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\ArrayEx2.cs",
+              "RelativeDocumentMoniker": "ArrayEx2.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\ArrayEx2.cs",
+              "RelativeToolTip": "ArrayEx2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:04:36.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Array1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Array1.cs",
+              "RelativeDocumentMoniker": "Array1.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Array1.cs",
+              "RelativeToolTip": "Array1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:09:22.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Array2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Array2.cs",
+              "RelativeDocumentMoniker": "Array2.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Array2.cs",
+              "RelativeToolTip": "Array2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:14:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Array3.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Array3.cs",
+              "RelativeDocumentMoniker": "Array3.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Array3.cs",
+              "RelativeToolTip": "Array3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:17:05.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Array4.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Array4.cs",
+              "RelativeDocumentMoniker": "Array4.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Array4.cs",
+              "RelativeToolTip": "Array4.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:21:08.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Array5.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Array5.cs",
+              "RelativeDocumentMoniker": "Array5.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Array5.cs",
+              "RelativeToolTip": "Array5.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:29:49.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Quiz4.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Quiz4.cs",
+              "RelativeDocumentMoniker": "Quiz4.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Quiz4.cs",
+              "RelativeToolTip": "Quiz4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:43:07.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Quiz3.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Quiz3.cs",
+              "RelativeDocumentMoniker": "Quiz3.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Quiz3.cs",
+              "RelativeToolTip": "Quiz3.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:40:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Quiz2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Quiz2.cs",
+              "RelativeDocumentMoniker": "Quiz2.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Quiz2.cs",
+              "RelativeToolTip": "Quiz2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:38:29.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StrEx.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\StrEx.cs",
+              "RelativeDocumentMoniker": "StrEx.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\StrEx.cs",
+              "RelativeToolTip": "StrEx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:20:58.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Quiz1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Quiz1.cs",
+              "RelativeDocumentMoniker": "Quiz1.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Quiz1.cs",
+              "RelativeToolTip": "Quiz1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:35:57.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoopEx1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\LoopEx1.cs",
+              "RelativeDocumentMoniker": "LoopEx1.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\LoopEx1.cs",
+              "RelativeToolTip": "LoopEx1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwF4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:08:00.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day2\\DemoProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\wipro26\\Day2\\DemoProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T05:07:35.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

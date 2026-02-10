@@ -59,6 +59,45 @@ Welcome All liril is soap Malayalam is language madam is heading company
 
 Total Count of Palindrome Words : 3 
 
+There are 2 types of memories known as 
+
+(I) stack
+
+(ii) heap 
+
+*** value types will be stored in STACK memory, reference types will be stored in HEAP memory ***
+
+The top level class in .NET is Object 
+
+The default namespace in .NET is System;
+
+int x;
+
+x="Hello";
+x=12;
+x=12.5;
+
+object x;
+x="Hello";
+x=12;
+x=12.5;
+
+Boxing and Unboxing : The concept of converting value types to reference types known as boxing, and reference types of value types known as unboxing. 
+
+object is the type, that which can be used for boxing and unboxing.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
