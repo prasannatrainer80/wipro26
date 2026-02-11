@@ -1,0 +1,30 @@
+The default namespace in .NET is System.
+
+The top level class in .NET is object 
+
+Object class have various methods as
+
+GetHashCode()
+
+GetType()
+
+ToString() : Returns string value, and it will be called automatically once you print the object. 
+
+Method Overloading : The concept of using the same method name w.r.t. different data types or different parameters known as method overloading. Here, the method name must be same, but no.of parameters or type of parameters we are using here are different. 
+
+public void Show(string sname) {
+...
+...
+}
+
+sname();
+sname("Yash");
+sname("Yash","Vijay");
+sname("Yash","Vijay","Ahmad");
+
+params : Allows you to pass varying parameters in a method. 
+
+
+
+
+
