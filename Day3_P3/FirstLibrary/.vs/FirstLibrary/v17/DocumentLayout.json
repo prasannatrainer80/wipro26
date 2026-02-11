@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro26\\Day3\\FirstLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6D21DA-2C4F-482E-A41D-FA3C8B3CA981}|..\\SecondLibrary\\SecondLibrary.csproj|d:\\wipro26\\day3\\secondlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E58E31-C163-40AD-B5D7-33B7BF7975C2}|FirstLibrary.csproj|d:\\wipro26\\day3\\firstlibrary\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E58E31-C163-40AD-B5D7-33B7BF7975C2}|FirstLibrary.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E58E31-C163-40AD-B5D7-33B7BF7975C2}|FirstLibrary.csproj|d:\\wipro26\\day3\\firstlibrary\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E58E31-C163-40AD-B5D7-33B7BF7975C2}|FirstLibrary.csproj|solutionrelative:demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E58E31-C163-40AD-B5D7-33B7BF7975C2}|FirstLibrary.csproj|d:\\wipro26\\day3\\firstlibrary\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E58E31-C163-40AD-B5D7-33B7BF7975C2}|FirstLibrary.csproj|solutionrelative:training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day3\\SecondLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SecondLibrary\\Class1.cs",
+              "ToolTip": "D:\\wipro26\\Day3\\SecondLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\SecondLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:46:44.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day3\\FirstLibrary\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "D:\\wipro26\\Day3\\FirstLibrary\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:44:41.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day3\\FirstLibrary\\Demo.cs",
+              "RelativeDocumentMoniker": "Demo.cs",
+              "ToolTip": "D:\\wipro26\\Day3\\FirstLibrary\\Demo.cs",
+              "RelativeToolTip": "Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:42:44.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Training.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day3\\FirstLibrary\\Training.cs",
+              "RelativeDocumentMoniker": "Training.cs",
+              "ToolTip": "D:\\wipro26\\Day3\\FirstLibrary\\Training.cs",
+              "RelativeToolTip": "Training.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:39:44.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
