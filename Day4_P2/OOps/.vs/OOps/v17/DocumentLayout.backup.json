@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro26\\Day4\\OOps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OOps||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\mainprog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:mainprog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\itwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:itwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\ione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:ione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\mainprog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:mainprog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\yash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:yash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\aryan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:aryan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\ganesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:ganesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\itraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:itraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C4A874-E6AD-4746-9ED0-5840381C18BC}|OOps.csproj|d:\\wipro26\\day4\\oops\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\Quiz.cs",
+              "RelativeDocumentMoniker": "Quiz.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\Quiz.cs",
+              "RelativeToolTip": "Quiz.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:53:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainProg2.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\MainProg2.cs",
+              "RelativeDocumentMoniker": "MainProg2.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\MainProg2.cs",
+              "RelativeToolTip": "MainProg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:52:29.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\Demo.cs",
+              "RelativeDocumentMoniker": "Demo.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\Demo.cs",
+              "RelativeToolTip": "Demo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:51:31.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITwo.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\ITwo.cs",
+              "RelativeDocumentMoniker": "ITwo.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\ITwo.cs",
+              "RelativeToolTip": "ITwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:51:16.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOne.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\IOne.cs",
+              "RelativeDocumentMoniker": "IOne.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\IOne.cs",
+              "RelativeToolTip": "IOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:50:59.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOps",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\OOps.csproj",
+              "RelativeDocumentMoniker": "OOps.csproj",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\OOps.csproj",
+              "RelativeToolTip": "OOps.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-12T06:49:25.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainProg1.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\MainProg1.cs",
+              "RelativeDocumentMoniker": "MainProg1.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\MainProg1.cs",
+              "RelativeToolTip": "MainProg1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:48:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Yash.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\Yash.cs",
+              "RelativeDocumentMoniker": "Yash.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\Yash.cs",
+              "RelativeToolTip": "Yash.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:47:47.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aryan.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\Aryan.cs",
+              "RelativeDocumentMoniker": "Aryan.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\Aryan.cs",
+              "RelativeToolTip": "Aryan.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:47:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ganesh.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\Ganesh.cs",
+              "RelativeDocumentMoniker": "Ganesh.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\Ganesh.cs",
+              "RelativeToolTip": "Ganesh.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:46:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITraining.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\ITraining.cs",
+              "RelativeDocumentMoniker": "ITraining.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\ITraining.cs",
+              "RelativeToolTip": "ITraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:45:41.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro26\\Day4\\OOps\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\wipro26\\Day4\\OOps\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T06:45:20.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
