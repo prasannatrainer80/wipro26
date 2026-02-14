@@ -1,0 +1,76 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+
+// Define a user-defined class
+public class Person
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+
+    // Optional: Ignore null values during serialization
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    public string Email { get; set; }
+}
+
+class Program
+{
+    static void Main()
+    {
+        string filePath = "people.json";
+
+        try
+        {
+            // Create a list of Person objects
+            List<Person> people = new List<Person>
+            {
+                new Person { Name = "Alice", Age = 30, Email = "alice@example.com" },
+                new Person { Name = "Bob", Age = 25 },
+                new Person { Name = "Charlie", Age = 35, Email = "charlie@example.com" }
+            };
+
+            // Serialize and write to file
+            WriteObjectsToFile(filePath, people);
+
+            // Read and deserialize from file
+            List<Person> loadedPeople = ReadObjectsFromFile(filePath);
+
+            // Display loaded data
+            Console.WriteLine("People loaded from file:");
+            foreach (var person in loadedPeople)
+            {
+                Console.WriteLine($"Name: {person.Name}, Age: {person.Age}, Email: {person.Email ?? "N/A"}");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+    }
+
+    // Method to write objects to file
+    static void WriteObjectsToFile(string path, List<Person> people)
+    {
+        // Ensure directory exists
+        Directory.CreateDirectory(Path.GetDirectoryName(Path.GetFullPath(path)));
+
+        // Serialize with indentation for readability
+        var options = new JsonSerializerOptions { WriteIndented = true };
+        string jsonString = JsonSerializer.Serialize(people, options);
+
+        File.WriteAllText(path, jsonString);
+        Console.WriteLine($"Data successfully written to {path}");
+    }
+
+    // Method to read objects from file
+    static List<Person> ReadObjectsFromFile(string path)
+    {
+        if (!File.Exists(path))
+            throw new FileNotFoundException("The file does not exist.", path);
+
+        string jsonString = File.ReadAllText(path);
+        return JsonSerializer.Deserialize<List<Person>>(jsonString) ?? new List<Person>();
+    }
+}

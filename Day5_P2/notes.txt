@@ -34,5 +34,48 @@ StreamReader : Used to read the content from the file.
 
 StreamReader sr = new StreamReader(filename);
 
+Exception Handling : 
+_____________________
+
+It is a mechanism of handling the runtime errors during the execution of the program. Compile time errors CLR will take care, runtime errors occurs during runtime if we pass invalid values, the type of errors we are getting known as runtime errors. 
+
+By using Exception Handling we can overcome the runtime errors. 
+
+To Handle Exceptions, we have 3 blocks known as
+
+1) try block : this block contains statements in which there is possibility of getting runtime errors, the statements which are placed in this block are treated as heavy weighted statements as CLR allocates excess memory to them. 
+
+2) catch block : Once exception raised in try block, then the control will be passed to catch block, this block contains alternate statements for exceptions raised in try block, One try block can contains multiple catch blocks. 
+
+3) finally block : this block contains statement(s) that needs to be executed mandatorily irrespective of try and catch blocks, this block is not mandatory, but all the statement(s) which are placed in this block are executed as mandatory statements. 
+
+Exception is the top most class from which all kinds of exceptions are created. 
+
+printStackTrace() : This method gives entire info about Exceptions like errorNumber, Exception Class, LineNumber,CharPos. 
+
+System exceptions inadequate to handle in all situations, to overcome this we need the help of custom exceptions. Any class that which derived from ApplicationException can be treated as custom exception. 
+
+public class UserDefinedException : ApplicationException
+{
+   public UserDefinedException(String error) : base(error);
+}
+
+You can raise user-defined exceptions by using throw keyword.
+
+Write a Program to create user-defined exception as VotingException, and read age, if age < 18 raise exception.
+
+Write a program to accept 2 numbers and print sum/sub/mult, but if any no < 0 raise NumberZeroException, if any number = 0 then raise NegativeException 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
