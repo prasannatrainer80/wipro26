@@ -1,0 +1,55 @@
+RAISE_ERROR() : Used to raise own error messages, as after that code will not be executed. 
+
+It contains various severity levels as 
+
+
+0 - 10  : Information Message
+
+11 - 16 : User Errors
+
+17 - 19 : Resource Errors
+
+20 - 25 : High Level Errors 
+
+A table valued function returns a table instead of a single value. 
+
+There are 2 types of table valued functions known as
+
+-> Inline Table-Valued Function (ITVC)
+
+-> Multi-Statement Table-valued Function (MTVF)
+
+Syntax : 
+
+Create Function FunctionName(@Variable Type) RETURNS TABLE
+AS
+RETURNS TABLE
+AS
+RETURN
+(
+    select field(s) from Table where condition;
+);
+
+-- Create a table valued function, that which returns all Dotnet Dept records
+
+Inline Table Valued Functions are 
+
+	-> Single SELECT
+	
+	-> No BEGIN/END
+
+	-> Better Performance
+
+	-> No Internal Table Variable 
+
+Multi-Statement TVF
+
+	-> Multiple SQL Statements
+
+	-> Uses BEGIN/END
+
+	-> Slightly Slower
+
+	-> Uses Table Variable
+
+
